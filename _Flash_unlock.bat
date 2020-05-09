@@ -1,0 +1,4 @@
+fastboot oem allow_unlock
+fastboot oem unlock_password zebra_helios_emc
+fastboot flashing unlock
+pause
